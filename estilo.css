@@ -1,0 +1,18 @@
+.image-container {
+    display: flex;
+    /* Alinha as imagens lado a lado */
+}
+
+.image {
+    margin-right: 10px;
+    /* Define uma margem entre as imagens */
+}
+.video-container {
+    max-width: 600px;
+    margin: 0 auto; /* Centraliza horizontalmente */
+}
+.audio-container {
+    display: flex;
+    justify-content: space-between;
+    margin: 20px;
+}
